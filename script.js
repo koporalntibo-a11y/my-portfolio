@@ -2,9 +2,9 @@ const typingText = document.querySelector(".typing");
 
 const words = [
     "a Java Developer",
-    "an Network Engineer",
+    "a Network Engineer",
     "a Technical Business Support Freelancer ",
-    "an AI Internship @CXI-Africa Learner"
+    "an AI Intern @CXI-Africa Learner"
 ];
 
 let wordIndex = 0;
